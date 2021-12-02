@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #6f42c1;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+}
+
